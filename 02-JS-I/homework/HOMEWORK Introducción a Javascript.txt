@@ -1,0 +1,9 @@
+HOMEWORK: Introducción a Javascript
+
+1. Explicación de conceptos:
+ 1.1 Variable: es un elemento que se almace, el cual puede consultarse posteriormente y trabajar con él (Puede ser númerico, string, booleano, etc.)
+ 1.2 Strings: es un elemento o tipo de dato que se comporta como conjunto de letras o texto.
+ 1.3 Funciones (argumento, return): las funciones instrucciones de codigo que se ejecutan consecutivamente responden en base al argumento, siendo el argumento los valores o variables que se le pasan a la función para que se ejecute. 
+ El termino "Return" hace referencia a la linea de código que devuelve el valor final de función y en donde termina la misma, sin continuar con el resto de la función.
+ 1.4 Declaraciones "if": es una operación condicional el cual define el resultado en base al/los argumento brindado. 
+ 1.5 Valores Booleanos (true, false): son tipos de datos que representan un verdadero o falso. 
