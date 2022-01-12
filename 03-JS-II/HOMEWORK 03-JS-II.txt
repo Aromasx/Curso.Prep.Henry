@@ -1,0 +1,33 @@
+HOMEWORK II
+
+1. Explicación FOR:
+for es una expresión de bucle que nos permite iterar, hacer algo repetitivo hasta que se cumpla cierta condición, resultando util para ciertas operaciones. El bucle for tiene tres partes, separadas por coma que nos dan la información necesario para que 
+el bucle funcione correctamente, estas partes son:
+ - La variable de iteración: var i.
+ - La expresión de parada del bucle: i < 10
+ - La expresión de variación de la variable (i) una vez finalizada una vuelta en el bucle: i++
+Descripción del bucle for:
+
+for (var i, i < 10, i++) {
+ // Expresión retitiva. 
+}
+
+2. Explicación `&&`, `||`, `!`:
+
+Los tres son operadores lógicos;
+ 2.1 `&&` es el operador lógico Y o AND, el cual nos indica para que un operador es true cuando ambas condiciones se cumplen, sino la resultante es false. 
+
+  (10 > 2 && 10 > 6) = true
+  (10 > 2 && 10 < 6) = false
+
+ 2.2 `||` es el operador lógico OR, el cual nos indica para que un operador es true cuando algunas de las condiciones se cumple.
+
+  (10 > 2 || 10 > 6) = true
+  (10 > 2 || 10 < 6) = true
+ 
+
+ 2.3 `!` es el operador lógico de negación o NOT, el cual nos devuelve el valor negado de una expresión.
+
+  !(10 > 2 && 10 > 6) = false
+  !(10 > 2 && 10 < 6) = true
+ 
