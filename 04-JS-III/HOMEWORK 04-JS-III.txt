@@ -1,0 +1,8 @@
+HOMEWORK JS III
+
+1. ARRAYS;
+Los Arrays son matrices que pueden contener cualquier tipo de valor, serían variables con mas valores en su interior de forma ordenada.
+
+const FirstArrays = [1, 'hola', null, 100]
+
+En este ejemplo estariamos hablando de un Arrays que contiene 4 elementos o variables.
