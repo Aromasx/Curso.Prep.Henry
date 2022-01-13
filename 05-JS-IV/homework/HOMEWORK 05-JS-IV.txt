@@ -1,0 +1,41 @@
+HOMEWORK 05-JS-IV:
+
+1. OBJETOS:
+Un Objeto es un contenedor de datos como los Arrays el cual me permiten almacenar información por intermedio de una keyword y valores asociados a cada keywords. 
+Los valores de cada keywords pueden numeros, booleanos, funciones, arrays, objetos, etc. Todo en Javascript termina siendo un objeto.
+
+const Nombres = {
+    nombre: 'juan',
+    edad: 45,
+    vive; 'CABA',
+}
+
+2.Propiedades: 
+Las propiedades de un objeto son un par de clave-valor. Se pueden acceder a ellas principalmente de dos formas;
+
+Nombres['nombre'] // con corchetes
+nombres.nombre // con punto
+
+3. Métodos;
+Los métodos son como se les llama a las funciones dentro de los objetos.
+
+4. Bucle `for…in`;
+El bulce 'For ... in' es similar al bucle for que me permite iterar dentro de un objeto, recorriendo cada una de las claves.
+
+for (let clave in Nombres){
+    console.log(clave);
+    console.log(Nombres[clave]);
+}
+
+// nombre
+// 'juan'
+// edad
+// 45
+// vive
+// 'CABA'
+
+5. Notación de puntos vs notación de corchetes:
+La Notación de puntos o notación de corchetes como mencionamos anteriormente me permiten acceder a cualquier de las claves valores del objeto.
+
+Nombres['nombre'] // con corchetes
+nombres.nombre // con punto
