@@ -1,0 +1,10 @@
+HOMEWORK 06-JS-V
+
+1.'prototype':
+Este concepto hace referencia a una función con la cuenta el objeto y el cual esta en el objeto prototipo desde donde se creo el objeto.
+Al crearse un objeto por intermedio de un objeto prototipo, el primero puede tomar las funciones, propiedades del objeto prototipo.
+
+2. _Constructors_ (de Clases):
+Los Constructores o Clases son elementos que permiten construir objetos con las mismas propiedades o funciones. De modo que posteriormente,
+se pueden crear objetos con las mismas propiedades y funciones del constructores. Serían las fabricas de los objetos.
+
