@@ -1,0 +1,4 @@
+HOMEWORK 07-JS-VI
+
+1. Funciones Callback;
+Es la capacidad que tiene una función de recibir como argumento otra función. Resulta practico llamarla cb para tener mejor referencia. 
